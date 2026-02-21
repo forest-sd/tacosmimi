@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tacosmimi.pages.dev/sitemap.xml
