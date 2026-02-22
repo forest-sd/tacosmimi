@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tacos Mimi</title>
+    <link>https://tacosmimi.pages.dev</link>
+    <description>Latest posts from Tacos Mimi</description>
+    <language>en-us</language>
+    <lastBuildDate>2026-02-21</lastBuildDate>
+    <atom:link href="https://tacosmimi.pages.dev/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Role of Local Restaurants in Community Building</title>
+      <link>https://tacosmimi.pages.dev/blog/the-role-of-local-restaurants-in-community-building/</link>
+      <description>The Role of Local Restaurants in Community Building — an in-depth exploration with evidence-based insights.</description>
+      <pubDate>2026-02-21</pubDate>
+    </item>
+  </channel>
+</rss>
