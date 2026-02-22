@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tacosmimi.pages.dev/sitemap.xml
+Sitemap: https://www.tacosmimi.com/sitemap.xml
