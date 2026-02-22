@@ -17,4 +17,34 @@
   <url><loc>https://www.tacosmimi.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://www.tacosmimi.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://www.tacosmimi.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://www.tacosmimi.com/blog/corn-tortillas-the-soul-of-mexican-cooking/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tacosmimi.com/blog/mexican-food-trucks-driving-culinary-innovation/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tacosmimi.com/blog/regional-mexican-cuisines-beyond-tex-mex/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tacosmimi.com/blog/the-art-of-salsa-making-from-mild-to-wild/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.tacosmimi.com/blog/the-history-of-mexican-street-tacos/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
